@@ -32,7 +32,7 @@ _______
     </tbody>
 </table>
 
-### Usage
+### Utilisation
 _______
 ```go
 go run . 
@@ -43,7 +43,7 @@ _______
 Le front utilise du `javascript`, `html` et `css` pour faire tourner le jeu.<br>
 Le back utilise un serveur en `go version 1.19` pour gérer les scores. Le serveur Go utilise la librairie [Gorilla](https://pkg.go.dev/github.com/gorilla/websocket) websocket
 
-### Authors
+### Auteurs
 _______
 + Diane VANIER
 + Joris BORGES
